@@ -1,4 +1,4 @@
-
+[![Build Status](https://bhumesh.visualstudio.com/BhumContosoAirProject/_apis/build/status/Bhume92.ContosoAir?branchName=master)](https://bhumesh.visualstudio.com/BhumContosoAirProject/_build/latest?definitionId=6&branchName=master)
 
 
 # Microsoft.Github CI Demo
